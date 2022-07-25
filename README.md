@@ -13,7 +13,7 @@
 </div>
 
 <div>
-<h2>I'm learning</h2> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<h2>I'm learning</h2> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
           
           
