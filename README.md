@@ -18,8 +18,8 @@
 </div>
 <div>
   <h2>My projects</h2>
-  <a href='https://calculator-benjaminzapata.netlify.app/' target='_blank'>Calculator</a>  
-  <a href='https://passwordgenerator-benjaminzapata.netlify.app/' target='_blank'>Password generator</a>  
-  <a href='https://weatherapp-benjaminzapata.netlify.app/' target='_blank'>Weather App</a>  
-  <a href='https://piedrapapeltijeras-benjaminzapata.netlify.app/' target='_blank'>Piedra, papel o tijeras</a>  
+  <a href='https://calculator-benjaminzapata.netlify.app/' target='_blank'>Calculator</a>  \
+  <a href='https://passwordgenerator-benjaminzapata.netlify.app/' target='_blank'>Password generator</a>  \
+  <a href='https://weatherapp-benjaminzapata.netlify.app/' target='_blank'>Weather App</a>  \
+  <a href='https://piedrapapeltijeras-benjaminzapata.netlify.app/' target='_blank'>Piedra, papel o tijeras</a>  \
 </div> 
