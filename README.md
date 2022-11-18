@@ -16,5 +16,10 @@
 <h2>I'm learning</h2><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
           
 </div>
-          
-          
+<div>
+  <h2>My projects</h2>
+  <a href='https://calculator-benjaminzapata.netlify.app/' target='_blank'>Calculator</a>
+  <a href='https://passwordgenerator-benjaminzapata.netlify.app/' target='_blank'>Password generator</a>
+  <a href='https://weatherapp-benjaminzapata.netlify.app/' target='_blank'>Weather App</a>
+  <a href='https://piedrapapeltijeras-benjaminzapata.netlify.app/' target='_blank'>Piedra, papel o tijeras</a>
+</div> 
